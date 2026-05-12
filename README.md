@@ -17,14 +17,7 @@ It fetches real-time weather data using the OpenWeather API and displays it in a
 
 ---
 
-## 📸 Screenshots
 
-Add screenshots here:
-
-assets/screenshot1.png  
-assets/screenshot2.png  
-
----
 
 ## 🛠️ Tech Stack
 
